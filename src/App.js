@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello From Nomin 123</h1>
+      <h1>Hello From New pipeline</h1>
     </div>
   );
 }
